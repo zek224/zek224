@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer programming and blockchain technology
 - 🌱 I’m currently learning C, python, javascript, and solidity
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: zek224@lehigh.edu
+- 📫 How to reach me: zee@lehigh.edu
 - Cybersecurity Intern
 
 <!---
